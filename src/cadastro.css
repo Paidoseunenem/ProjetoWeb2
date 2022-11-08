@@ -1,0 +1,22 @@
+cadastro{
+    margin: 50px;
+    background-color: rgb(211, 128, 128);
+    padding: 30px;
+    border-radius: 10%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input {
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 10px;
+}
+
+.botao {
+    border-radius: 15px;
+    background: rgb(247, 112, 35);
+    border: 1px solid black;
+    width: 50%;
+}

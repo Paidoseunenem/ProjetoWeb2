@@ -1,0 +1,13 @@
+.login {
+    margin: 50px;
+    background: rgb(238, 194, 111);
+    padding: 30px;
+    
+}
+
+input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid black;
+    border-radius: 10px;
+}

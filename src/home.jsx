@@ -10,7 +10,7 @@ export default function Home() {
             
 
             <div className='home'>
-                <h1>Resumo</h1>
+                <h1>Meu P....</h1>
 
             </div>
 

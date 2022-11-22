@@ -1,13 +1,35 @@
 .login {
-    margin: 50px;
-    background: rgb(238, 194, 111);
-    padding: 30px;
+    border: 50px;
+    background: #3Effaa;
+    padding: 4em;
     
 }
+body{
+    background-color: #cde;
+    width: 100%; 
+    height: 100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    border-color: black;
 
+}
 input {
     padding: 10px;
     margin: 10px 0;
     border: 1px solid black;
     border-radius: 10px;
+}
+button{
+    margin-left: 1em;
+    padding: .5em;
+    border-color: black;
+}
+/*@font-face {
+    font-family: sexo;
+    src: url('./assets/AveriaSansLibre-Regular.ttf');
+}*/
+h1{
+    display: flex;
+    justify-content: center!important;
 }

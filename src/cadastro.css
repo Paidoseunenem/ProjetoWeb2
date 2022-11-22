@@ -17,6 +17,7 @@ input {
 .botao {
     border-radius: 15px;
     background: rgb(247, 112, 35);
-    border: 1px solid black;
+    
     width: 50%;
+    border-bottom: black;
 }

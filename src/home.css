@@ -1,0 +1,42 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    width: 100vw;
+}
+ul li {
+    float: left;
+    margin: 0em;
+}
+ul li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 19px 16px;
+    text-decoration: none;
+}
+
+ul li a:hover:not(.active) {
+    background-color: #abc;
+}
+
+ul li a.sair {
+    background-color:#04AA6D;
+}
+.corpo{
+    min-height: 100px;
+    background-color:#abc;
+    padding: 2em;
+}
+.kk{
+    display: flex;
+    justify-content: right;
+}
+.botao2 {
+    border-radius: 15px;
+    background: rgb(247, 240, 35);
+    border: 1px solid black;
+    width: 10%;
+}
